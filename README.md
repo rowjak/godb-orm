@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Go-1.23-00ADD8?logo=go" alt="Go">
   <img src="https://img.shields.io/badge/Vue-3-4FC08D?logo=vue.js" alt="Vue 3">
-  <img src="https://img.shields.io/badge/Wails-v2%2011-red" alt="Wails">
+  <img src="https://img.shields.io/badge/Wails-v2%20.11-red" alt="Wails">
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey" alt="Platform">
   <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License">
 </p>
